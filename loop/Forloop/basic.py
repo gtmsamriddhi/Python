@@ -13,4 +13,4 @@ for fruit in fruits:
  print(fruit)
 for idx, fruit in enumerate (fruits , 1):
    print (f" {idx}: {fruit}")
-# i runs 0 and 1 and j runs 0 1 2 so combinations become 0 to 0 1 2 and 1 to 0 1 2
+
